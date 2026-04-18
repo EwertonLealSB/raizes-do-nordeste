@@ -208,7 +208,7 @@ O arquivo `raizes_nordeste_collection.json` está na raiz do repositório.
 
 ## 🔗 Links
 
-- **Repositório:** https://github.com/seu-usuario/raizes-do-nordeste-api
+- **Repositório:** [https://github.com/seu-usuario/raizes-do-nordeste-api](https://github.com/EwertonLealSB/raizes-do-nordeste)
 - **Swagger local:** http://localhost:3000/api-docs
 - **Health:** http://localhost:3000/health
 
